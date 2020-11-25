@@ -1,0 +1,12 @@
+{
+    "port": 3000,
+    "DataBaseName": "wazupp",
+    "DataBaseHost": "127.0.0.1",
+    "DataBaseLogin": "root",
+    "DataBasePassword": "Parol123",
+    "TableNameUsers": "testUsers",
+    "TableNameNotes": "testNotes",
+    "TableNameSessions": "testSessions",
+    "baseUrl": "http://localhost:3000",
+    "secretKey": "Wazupp test task"
+}
